@@ -1,0 +1,6 @@
+build*/
+*.csv
+*.png
+.vscode/
+.DS_Store
+compile_commands.json
